@@ -82,44 +82,35 @@ Their Influence Means for America</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Some of the Unmentionables in George H W Bush’s Legacy</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-I’m certain that many of us aware of the many omissions concerning the legacy of 
-George H W Bush. I list some of them below:  
+<p>I’m certain that many of us aware of the many omissions concerning the legacy of 
+George H W Bush. I list some of them below:</p>
 
-1) Bush 41’s veto of the Civil Rights Act of 1990;
-
-2) his nefarious actions while he was CIA chief in Gerald Ford’s administration;
-
-3) his role in the US support of the uncountable South and Central American 
-   dictatorships during the Reagan administration;
-
-4) the illegal invasion of Panama (Operation Just Cause!);
-
-5) starting the un-provoked Persian Gulf War;
-
-6) his Christmas Eve pardoning of former defense secretary Caspar W. Weinberger, 
+<ol>
+  <li>1) Bush 41’s veto of the Civil Rights Act of 1990;</li>
+  <li>2) his nefarious actions while he was CIA chief in Gerald Ford’s administration;</li>
+  <li>3) his role in the US support of the uncountable South and Central American 
+   dictatorships during the Reagan administration;</li>
+  <li>4) the illegal invasion of Panama (Operation Just Cause!);</li>
+  <li>5) starting the un-provoked Persian Gulf War;</li>
+  <li>6) his Christmas Eve pardoning of former defense secretary Caspar W. Weinberger, 
    Elliot Abrams and four other government officials that were involved in the 
-   Iran-Contra affair;
-
-7) his complicity in the thousands of corpses that rotted on the Highway of Death 
-   in Iraq in 1991;
-
-8) his playing the “race card” in the use of Willie Horton in the Dukakis campaign;
-
-9) Bush 41 and the CIA’s role in the Contra War-era’s flooding of the US with crack 
-   cocaine that facilitated the epidemic that has persisted to this day;
-
-10) his appointment of Clarence Thomas to the Supreme Court;
-
-11) the intentional targeting of the air-raid shelter in Baghdad that killed over 
-    400 Iraqi civilians; and
-
-12) a host of other items. Just google Bush plus: a) Operation Black Eagle; 
+   Iran-Contra affair;</li>
+  <li>7) his complicity in the thousands of corpses that rotted on the Highway of Death 
+   in Iraq in 1991;</li>
+  <li>8) his playing the “race card” in the use of Willie Horton in the Dukakis campaign;</li>
+  <li>9) Bush 41 and the CIA’s role in the Contra War-era’s flooding of the US with crack 
+   cocaine that facilitated the epidemic that has persisted to this day;</li>
+  <li>10) his appointment of Clarence Thomas to the Supreme Court;</li>
+  <li>11) the intentional targeting of the air-raid shelter in Baghdad that killed over 
+    400 Iraqi civilians; and</li>
+  <li>12) host of other items. Just google Bush plus: a) Operation Black Eagle; 
     b) Oliver North; c) El Salvador; d) Nicaragua; e) Honduras; f) Felix Rodriguez; 
-	g) etc, etc,   Oh, and there was also no mention of
+	g) etc, etc,   Oh, and there was also no mention of</li>
+  <li>13) his admitted groping of at least 8 young women – acts that brought down in 
+    disgrace many of his contemporaries.</li>
+</ol>
 
-13) his admitted groping of at least 8 young women – acts that brought down in 
-    disgrace many of his contemporaries.  
-
+<blockquote>
 (NOTE: The Iran-Contra affair, referred to above, was an illegal action that Bush 
 was involved in when he was VP under Reagan. It was likewise never mentioned by any 
 mainstream media outlet that I heard this week. Because of US congressional laws 
@@ -131,6 +122,7 @@ the release of American hostages. They then used the illicit money from those
 weapons sales to illegally fund the Contras in Nicaragua, Honduras and surrounding 
 areas, an action which was forbidden by Congress. Oliver North was one of the point 
 men in the illegal operation.)  
+</blockquote>
 
 In the 101st Congress (during the first 2 years of Bush 41’s presidency), Democrats 
 had sizable majorities of 55/45 in the Senate and 251/183 in the House of 
@@ -181,8 +173,11 @@ also tells the story of the man whose courage and bravery prevented it from happ
 
 The remainder of this article supports the arguments above.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Corporate America’s Love Affair with Fascism</h3>
-Posted March 6, 2010 at: http://www.abovetopsecret.com/forum/thread549365/pg1 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<cite>Posted March 6, 2010 at: http://www.abovetopsecret.com/forum/thread549365/pg1</cite>
+
 "Give me control of a nation's money and I care not who makes the laws." -- Mayer Amschel Rothschild
 “What we have in America and Europe today are Fascist Bankocracies. Big Business 
 and Big Banks have made slaves of us all and they know exactly what they are doing. 
@@ -200,9 +195,11 @@ many other western nations are FASCISTS.”
 The second half of this column has been archived at: 
 http://duluthreader.com/search?search_term=Duty+to+Warn&p=2;
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Wall Street Millionaires Plotted to Overthrow President Franklin Delano Roosevelt</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 When FDR messed with their money, they began engineering a coup By Matt Reimann 
-- Aug 11, 2017 https://timeline.com/business-plot-overthrow-fdr-9a59a012c32a 
+<cite>- Aug 11, 2017 https://timeline.com/business-plot-overthrow-fdr-9a59a012c32a</cite>
 
 President Franklin Roosevelt made an enemy of the richest Americans with remarkable 
 haste. By his first term, his heavily progressive New Deal taxes and the suspension 
@@ -311,10 +308,6 @@ Also implicated in the plot was Al Smith, former New York governor and 1928 Demo
 presidential nominee, as well as Prescott Bush, a banker, future Connecticut senator, 
 and father to George H. W. Bush and grandfather to George W. Bush.   Of these wealthy 
 and prominent people, none was called for testimony, and none was punished.
-
-
-
-
 
 Butler went on to rise in public profile, championing populism and pacifism with his 
 1935 book, War Is a Racket, but for the beneficial publicity, the committee as well 
